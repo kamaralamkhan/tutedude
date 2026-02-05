@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Python Basics", "status": "Completed"},
+    {"id": 2, "name": "Flask Web Dev", "status": "In Progress"},
+    {"id": 3, "name": "MongoDB Integration", "status": "Learning"}
+]
