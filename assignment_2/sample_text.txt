@@ -1,0 +1,2 @@
+Hello! This is a test file created for Assignment 2.
+Python file operations are very powerful.
